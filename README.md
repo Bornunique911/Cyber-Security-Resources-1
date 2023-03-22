@@ -196,6 +196,8 @@ For providing some amazing resources!
 ## Binary-Exploitation
 
 - #### [Nop-Tech Notes for OSED](https://github.com/nop-tech/OSED) - nop-tech Github
+- #### [Understanding Assembly Language](https://beginners.re/) -  Dennis Yurichev
+- #### [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/) - 0xinfection Github
 - #### [Start Learning Reverse Engineering](https://twitter.com/coder_rc/status/1477137751317180419) - Coder_RC Twitter
 - #### [Pwn College ](https://pwn.college/modules/intro)
 - #### [Binary Exploitation Blogs](https://aidenpearce369.github.io/binexp/) - Aidenpearce369 Github.io
@@ -386,6 +388,7 @@ For providing some amazing resources!
 ### Gitbook
 
 - #### [OSCP Useful Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/) - BackDoorShell.gitbooks
+- #### [Strange-1](https://strange-1.gitbook.io/notes/welcome/intro) Gitbook
 - #### [The Read Team Handbook](https://kwcsec.gitbook.io/the-red-team-handbook/) - KwcSec.gitbook
 - #### [Hack All The Things](https://akenofu.gitbook.io/hackallthethings/) - Akenofu.gitbook
 - #### [DarkSidious](https://hunter2.gitbook.io/darthsidious/) - Hunter2.gitbook
@@ -399,6 +402,7 @@ For providing some amazing resources!
 
 - #### [Lolbas-project](https://lolbas-project.github.io/) - Github.io
 - #### [Shroudri](https://shroudri.github.io/) - Github.io
+- #### [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/) - 0xinfection Github
 - #### [Aidenpearce369](https://aidenpearce369.github.io/) - Github.io
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
 - #### [0xbharath](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/index.html) Github.io
@@ -484,6 +488,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	
 	- #### [The Modern JavaScript Tutorial](https://javascript.info/) - Javascript.info
 	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024) - Sololearn
+	- #### [Playcode JS Tutorials](https://playcode.io/)
 
 	### C++
 	 
@@ -550,6 +555,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
    
+   - #### [Windows Persistance Techniques](https://drive.google.com/file/d/1gijNQ5yiCVonj450hFgwpsth7fZmvNPK/view)
+   - #### [Strange-1 AD](https://strange-1.gitbook.io/notes/welcome/intro) Cheatsheet and theory
    - #### [Building an Active Directory domain and hacking it](https://github.com/chryzsh/DarthSidious) - Chryzsh Github
    - #### [Setting up Active Directory](https://shroudri.github.io/guides/setting-up-active-directory/) - Shroudri Github.io
    - #### [RedTeam Enumeratoin](https://aidenpearce369.github.io/offsec/redteam-enumeration/) - Aidenpearce369 Github.io
